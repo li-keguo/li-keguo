@@ -1,4 +1,4 @@
-### Hi I'm Li Keguo 👋
+### Hi! I'm Li Keguo 👋
 * * *
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-keguo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
