@@ -2,8 +2,8 @@
 
 * * *
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-keguo&show_icons=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-keguo&langs_count=8&theme=cobalt)](https://github.com/li-keguo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-keguo&show_icons=true&theme=cobalt)](https://github.com/li-keguo/soul) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-keguo&langs_count=5&layout=compact&theme=cobalt)](https://github.com/li-keguo/soul)
 
 <!--
 **li-keguo/li-keguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
